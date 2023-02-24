@@ -10,3 +10,5 @@ def getNumber(lst):
     return lst[0]
 def mul(a,b):
     return a*b
+def hello():
+    return "Hello world"
