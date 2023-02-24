@@ -4,7 +4,7 @@ def rev(s):
     return s[::-1]
 
 def div(a,b):
-    return a-b if a>b else a-b
+    return a-b if a>b else b-a
 
 def getNumber(lst):
     return lst[0]
